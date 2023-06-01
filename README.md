@@ -11,10 +11,13 @@
 > Summary and link to your assignment folder
 ### UX storytelling [persona+scenario, assignment05]
 > Summary and link to your assignment folder
+
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 <img src=”[url](https://github.com/Mori-sam/dh110-a7-highfidelity/blob/main/wireflow.png)” height=”300px”>
+
 ### Low-fidelity prototype (wireflow, assignment06)
 > Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 > Summary statement and link to or an embedded prototype
 ### Optional evaluation and revision history 
