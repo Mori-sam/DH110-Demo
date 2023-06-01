@@ -27,6 +27,4 @@
 
 ### Video
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![THE-ALT-TEXT](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "ALT-TEXT")
