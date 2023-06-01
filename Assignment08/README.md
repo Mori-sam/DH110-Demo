@@ -14,7 +14,7 @@
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
-<img src=./”https://mori-sam.github.io/dh110-a7-highfidelity/interaction.png” height=”300px”>
+![image_caption](https://mori-sam.github.io/dh110-a7-highfidelity/interaction.png)
 
 ### Low-fidelity prototype (wireflow, assignment06)
 > Summary and link to the sketches (may contains the multiple versions and evaluation history)
