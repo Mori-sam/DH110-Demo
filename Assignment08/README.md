@@ -13,7 +13,7 @@
 > Summary and link to your assignment folder
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
-<img src=”https://github.com/Mori-sam/dh110-a7-highfidelity/blob/71cdcd92666f7b921642149ca39af0a9a1b1014f/wireflow.png” height=”300px”>
+<img src=”https://github.com/Mori-sam/dh110-a7-highfidelity/blob/71cdcd92666f7b921642149ca39af0a9a1b1014f/interaction.png”>
 
 ### Low-fidelity prototype (wireflow, assignment06)
 > Summary and link to the sketches (may contains the multiple versions and evaluation history)
