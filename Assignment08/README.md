@@ -27,4 +27,4 @@
 
 ### Video
 
-[![THE-ALT-TEXT](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "ALT-TEXT")
+[![The Syncopated Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
