@@ -26,6 +26,7 @@
 ### Conclusion: what did you learn throughout the process?
 
 ### Video
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
