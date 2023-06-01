@@ -12,6 +12,7 @@
 ### UX storytelling [persona+scenario, assignment05]
 > Summary and link to your assignment folder
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
+<img src=”[url](https://github.com/Mori-sam/dh110-a7-highfidelity/blob/main/wireflow.png)” height=”300px”>
 ### Low-fidelity prototype (wireflow, assignment06)
 > Summary and link to the sketches (may contains the multiple versions and evaluation history)
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
@@ -20,3 +21,8 @@
 > Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ### Pitch video 
 ### Conclusion: what did you learn throughout the process?
+
+### Video
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
